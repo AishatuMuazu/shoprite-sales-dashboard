@@ -5,7 +5,7 @@
 This project analyzes Shoprite retail sales data to identify sales trends, product performance, customer behavior, and regional performance. The dashboard was created to help decision-makers monitor key business metrics and make data-driven decisions.
 
 ## Dashboard Preview
-! [Shoprite Dashboard] (Shoprite-dashboard.png)
+![Shoprite Dashboard](Shoprite-dashboard.png)
 
 ---
 
